@@ -2,8 +2,8 @@
 ## A fresh perspective on globally distributed OpenStack
 
 Florian Haas
-OpenStack Israel
-December 9, 2013
+OpenStack In Action 4, Paris
+December 5, 2013
 
 These slides rely on reveal.js and qrcode.js, which they expect to be
 checked out into sibling directories named `reveal.js` and `qrcodejs`,
