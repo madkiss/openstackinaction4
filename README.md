@@ -1,7 +1,7 @@
 # Greetings from Havana
 ## A fresh perspective on globally distributed OpenStack
 
-Florian Haas
+Martin G. Loschwitz
 OpenStack In Action 4, Paris
 December 5, 2013
 
